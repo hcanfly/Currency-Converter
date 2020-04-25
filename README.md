@@ -4,7 +4,7 @@ Currency Converter is an iOS app that shows the current conversion rates for the
 
 
 
-<img src="Screenshot.png">       <img src="Screenshot2.png">
+<img src="Screenshot.png" style="margin-right: 80px;"> <img src="Screenshot2.png">
 
 The app was written using Xcode 11.4 and requires iOS 13+. But the only feature that requires iOS 13 are the background and text colors. So if you want to run on earlier versions just create a new project and change the colors.
 
